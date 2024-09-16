@@ -1,0 +1,2 @@
+Box: Use this when you need a flexible container for custom layout and styling control, especially when you're creating a section that doesn’t require predefined styling like shadows or a background.
+

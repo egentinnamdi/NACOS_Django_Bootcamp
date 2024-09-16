@@ -1,0 +1,1 @@
+Paper: Use this when you want a visually distinct "card" or "surface" look with built-in elevation (shadows) to make it appear as if it's floating or raised from the background. Ideal for things like cards, dialog boxes, or any surface that should stand out from the rest of the page.
