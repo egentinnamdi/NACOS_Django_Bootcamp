@@ -1,0 +1,5 @@
+Why Start with the Container Component?
+Consistency: It provides a consistent margin around your content, making sure that the content doesn’t stretch too wide on large screens.
+Centering: By default, the content inside a Container is centered horizontally.
+Responsiveness: The Container supports breakpoints (xs, sm, md, lg, xl), so you can control how wide the content should be on different screen sizes.
+Readability: Without a container, the content could stretch across the entire width of the screen, which can make it hard to read on wide displays.
